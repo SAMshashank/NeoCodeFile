@@ -104,3 +104,13 @@ console.log(encoded);
 
 
 */
+
+
+// how to add more file 
+
+// git add .
+
+// git pull
+//  git commit "name"
+
+//  git push -u origin main
